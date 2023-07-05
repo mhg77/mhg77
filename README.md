@@ -2,6 +2,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhg77)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhg77&show_icons=true&theme=transparent)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mhg77_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <!--
 **mhg77/mhg77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
