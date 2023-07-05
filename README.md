@@ -2,6 +2,7 @@
   <h1>Hello there, I'm Mikhail</h1> 
   <h3>iOS developer student at Yandex Practicum</h3>
 </div>
+
 ### Hello there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhg77&show_icons=true&theme=dark&bg_color=00000000)
 <!--
